@@ -2,7 +2,7 @@
 
 I'm an undergraduate student.
 
-My interests span:
+My interests:
 
 - Web and software engineering — building with Flutter and Next.js
 - Deep learning and algorithms — currently thinking about heuristics, optimization
