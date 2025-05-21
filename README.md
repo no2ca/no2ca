@@ -1,6 +1,8 @@
 # Hi there!
 
-I'm an undergraduate student exploring the boundary between theory and practice in computing. My interests span:
+I'm an undergraduate student.
+
+My interests span:
 
 - Web and software engineering — building with Flutter and Next.js
 - Deep learning and algorithms — currently thinking about heuristics, optimization
