@@ -1,15 +1,15 @@
 # Hi there!
 
-I'm a second-year undergraduate student (Environment and Information Studies) with an interest in:
+I'm an undergraduate student exploring the boundary between theory and practice in computing. My interests span:
 
-- 🧠 deep learning in general — recently focusing on LLMs, including similarity search, evaluation metrics, and understanding model architectures.
-- 📱 Flutter app development (working on a native timetable app)
-- 🔍 Exploring: diffusion models, the theoretical mechanisms of deep learning, and web application frameworks
+- Web and software engineering — building with Flutter and Next.js
+- Deep learning and algorithms — currently thinking about heuristics, optimization
+- Competitive programming — recently entering the algorithm track of AtCoder
+- Low-level experiments — slowly working on a toy compiler in Rust
 
-🧰 Skills & Tools:
-- Languages: Python, Dart, JS
-- Tools: VSCode, Cursor, Cline, Git, Jupyter
+Skills & Tools:
+- Languages: Python, C++, Dart, JavaScript, Rust
+- Tools: Cursor, NeoVim, Git, Jupyter
 - Frameworks: Flutter, Next.js (learning)
-- Libraries: Hugging Face Transformers
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=no2ca&theme=default)
